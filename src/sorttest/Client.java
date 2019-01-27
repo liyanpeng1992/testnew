@@ -1,6 +1,6 @@
-package TestSort;
+package sorttest;
 
-import SingletonTest.AppConfig;
+import singletontest.AppConfig;
 
 public class Client {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package SingletonTest;
+package singletontest;
 
 import java.io.*;
 import java.util.Properties;

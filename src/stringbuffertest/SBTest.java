@@ -1,4 +1,4 @@
-package StringBufferTest;
+package stringbuffertest;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package TestHu;
+package testhu;
 
 
 import java.util.Timer;

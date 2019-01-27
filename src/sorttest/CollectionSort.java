@@ -1,7 +1,4 @@
-package TestSort;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+package sorttest;
 
 public class CollectionSort {
     public static void main(String[] args) {
