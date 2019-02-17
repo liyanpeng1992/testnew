@@ -11,5 +11,7 @@
     <orderEntry type="library" name="commons-codec-1.4" level="project" />
     <orderEntry type="library" name="fastjson-1.2.54" level="project" />
     <orderEntry type="library" name="hutool-all-4.3.2" level="project" />
+    <orderEntry type="library" name="druid-1.1.13" level="project" />
+    <orderEntry type="library" name="commons-csv-1.6" level="project" />
   </component>
 </module>
