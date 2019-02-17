@@ -1,4 +1,4 @@
-package hutololtest;
+package main.java.hutololtest;
 
 
 import java.util.Timer;

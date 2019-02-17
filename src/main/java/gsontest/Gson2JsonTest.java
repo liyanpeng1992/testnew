@@ -1,4 +1,4 @@
-package gsontest;
+package main.java.gsontest;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
