@@ -2,26 +2,34 @@
   <library name="commons-codec-1.4">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.6.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-digester-1.8.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-io-2.6.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.7.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/dataServer-5.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/druid-1.1.13.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/guava-25.1-jre.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/hessian.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hutool-all-4.3.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-over-slf4j-1.7.25.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/poi-3.9.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.9.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-3.9.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.7.25.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/xmlbeans-2.3.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/dataServer-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hutool-all-4.3.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
